@@ -1,5 +1,5 @@
 <h3 align="justify">
-  Projeto de uma page com consumo de API do github onde é possível verificar se um usuário digitado possuí perfil e se sim a consulta retorna com um número de até 10 repositórios pertencentes a ele.
+  Projeto de uma page com consumo de API do github onde é possível verificar se um usuário digitado possuí perfil e se sim a consulta retorna com um número de até 10 repositórios pertencentes a ele, suas 10 últimas atividades e quais as tecnologias usadas nos projetos.
   Caso o mesmo não possua é retornado na tela uma alerta.
 </h3>
 
